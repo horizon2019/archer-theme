@@ -15,6 +15,7 @@
     <% var sloganPieces = theme.busuanzi_slug.split('${count}') %>
     <% if(theme.busuanzi_pv_or_uv === 'pv') { %> 
     <span id="busuanzi_container_site_pv"><%- sloganPieces[0] %><span id="busuanzi_value_site_pv"></span><%- sloganPieces[1] %></span>
+    <span id="busuanzi_container_site_pv">粤ICP备20039576号</span>
     <% } else if (theme.busuanzi_pv_or_uv === 'uv') { %>
     <span id="busuanzi_container_site_uv"><%- sloganPieces[0] %><span id="busuanzi_value_site_uv"></span><%- sloganPieces[1] %></span>
     <% } %>
