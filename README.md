@@ -1,11 +1,6 @@
 hexo-theme-archer
 ================
 
-![preview](./docs/snap.png)
-
-## 在线预览(Online demo)
-
-🎯 主题预览：[Demo](http://firework.studio/archer-demo/)。
 
 ## 文档
 
