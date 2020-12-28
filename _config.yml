@@ -39,14 +39,14 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: 杯倾川与溪's Studio
+SEO_title: 杯倾川与溪
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: 杯倾川与溪's Studio.
+main_title: 杯倾川与溪
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
